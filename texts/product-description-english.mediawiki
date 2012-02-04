@@ -33,7 +33,7 @@
 </tr>
 <tr>
 <td>Updates</td>
-<td><a href="http://updates.fun4tux.ch/x3/" target="_blank">Updates for X3: Reunion</a></td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/x3/" target="_blank">Updates for X3: Reunion</a></td>
 </tr>
 <tr>
 <td>Condition</td>
