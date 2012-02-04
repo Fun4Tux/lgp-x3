@@ -1,0 +1,84 @@
+==Preview==
+<p>Mit X&sup3;: Reunion taucht der Spieler in das realistischste und lebendigste Universum ein, das es je gab.</p>
+
+==Text==
+<p><strong><strong><strong>Das Spiel</strong></strong><br /></strong></p>
+<p>Im Nachfolger zu dem ausgezeichneten X&sup2;: Die Bedrohung wird es neben einer neuen Story auch eine neue 3D-Engine, neue Schiffe, ein neues Gameplay geben und die Vielfalt des Universums wird sich ein weiters Mal steigern. Die Wirtschaft in X&sup3;: Reunion wird komplexer sein, als je zuvor im X-Universum. So werden Fabriken von NPCs gebaut, Kriege wirken sich auf das gesamte Universum aus, NPCs sind als freie H&auml;ndler unterwegs und die Piraten verhalten sich viel realistischer.<br /><br /><strong>Die Technologie</strong><br />Intensive Entwicklungen der X&sup3;-Engine erm&ouml;glichen das volle Aussch&ouml;pfen der Technologien. Dadurch k&ouml;nnen dramatische visuelle Effekte erzeugt und erstaunlich realistisch wirkende Raumschiffe geschaffen werden. Zusammen mit dem massiv ausgebauten A.L. (Artificial Life) System konfrontiert X&sup3;: REUNION die Spieler mit einem sich st&auml;ndig ver&auml;nderndem und entwickelndem Universum; in dem der Spieler tats&auml;chlich die Zukunft formen kann.<br /><br /><strong>Die Features</strong><br />Neueinsteiger werden sich besonders an dem erweiterten, grafisch beeindruckenden, schon fast lebendigen X&sup3;-Universum erfreuen, w&auml;hrend auf Kenner der Reihe neue Aufbau-Optionen und ein verbessertes Physikmodel warten.<br /><br /><strong>Die Story</strong><br />Was bisher geschah: Die argonische Flotte ist weit verstreut und wird von den st&auml;ndigen Angriffen der Khaak in Atem gehalten, da erw&auml;chst ein neuer Feind im X-Universum. Welche Verbindung gibt es zwischen einem mysteri&ouml;sen Schiff mit der F&auml;higkeit scheinbar pl&ouml;tzlich zu verschwinden, dem rastlosen Yaki-Piratenclan und einer Maschine, die vom Alten Volk zur&uuml;ckgelassen wurde? Es wird Zeit sich wieder anzuschnallen, die Laser vorzuheizen und endlich ein paar Antworten zu bekommen.</p>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video width="515" controls="true"> <source src="http://videos.fun4tux.ch/x3-trailer-en.ogg"></source> Ihr Browser unterst&uuml;tzt das video-Tag nicht! Dies ist eine gute Gelegenheit, einen brauchbaren <a href="http://www.mozilla-europe.org/de/firefox/">Browser zu besorgen</a>!</video></p>
+<hr />
+<p><strong><strong>Allgemeine Informationen zum Spiel</strong><br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Altersfreigabe<br /></td>
+<td>12+</td>
+</tr>
+<tr>
+<td>Sprache Verpackung<br /></td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Sprache Handbuch<br /></td>
+<td>Englisch<br /></td>
+</tr>
+<tr>
+<td>Sprache Spiel<br /></td>
+<td>Englisch, Deutsch, Franz&ouml;sisch, Italienisch (nur Texte)<br /></td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td>keine Demo verf&uuml;gbar<br /></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/x3/" target="_blank">Updates f&uuml;r X3: Reunion</a></td>
+</tr>
+<tr>
+<td>Zustand<br /></td>
+<td>fabrikneu<br /></td>
+</tr>
+<tr>
+<td>Lieferumfang<br /></td>
+<td>DVD und Anleitung in DVD-H&uuml;lle</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong><strong>Minimale Systemanforderungen</strong><br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Prozessor<br /></td>
+<td>2.2 GHz x86 Prozessor</td>
+</tr>
+<tr>
+<td>Grafikkarte<br /></td>
+<td>3D-Grafikkarte mit 32MB Ram und korrekt installierten, funktionsf&auml;higen Treibern und Shader Model 3.0 Unterst&uuml;tzung</td>
+</tr>
+<tr>
+<td>Hauptspeicher<br /></td>
+<td>1500 MB</td>
+</tr>
+<tr>
+<td>Festplattenspeicher<br /></td>
+<td>7 GB<br /></td>
+</tr>
+<tr>
+<td>Soundkarte<br /></td>
+<td>ALSA oder OSS kompatibel</td>
+</tr>
+<tr>
+<td>Laufwerk<br /></td>
+<td>DVD-Rom</td>
+</tr>
+<tr>
+<td>Betriebssystem<br /></td>
+<td>
+<p>GNU/Linux x86 System (x64/amd64 Systeme funktionieren nur mit einem 32 bit Emulationslayer), 2.2.x oder neuerer Linuxkernel, glibc-2.1+, X-Windows (XFree86 3.3.x oder neuer)</p>
+</td>
+</tr>
+</tbody>
+</table>
